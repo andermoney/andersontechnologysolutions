@@ -1,4 +1,4 @@
-andersontechnologysolutions
+Anderson Technology Solutions
 ===========================
 
-My static website
+My static website for andersontechnologysolutions.com
